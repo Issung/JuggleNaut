@@ -7,4 +7,6 @@ All assets and code was created originally apart from the background music.
  - A blog containing posts about the development of the game can be [read on itch.io](https://issung.itch.io/kit207prototype).
  - JuggleNaut can be downloaded and tried from [the releases page](https://github.com/Issung/JuggleNaut/releases/tag/1.0.0).
  
-![Tet](https://i.imgur.com/ju5Jo9W.png)
+![Screenshot of game #1.](https://i.imgur.com/ju5Jo9W.png)
+
+![Screenshot of game #2.](https://i.imgur.com/LPKSa7a.png)
